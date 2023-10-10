@@ -1,3 +1,3 @@
 # product-api
  
-em produção
+em desenvolvimento
